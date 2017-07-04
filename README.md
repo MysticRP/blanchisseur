@@ -1,5 +1,7 @@
 # blanchisseur
-Blanchisseur
+REQUIRE ESSENTIALMODE
+
+
 Updated to 0.2
 
 Changelog: 
